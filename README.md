@@ -1,4 +1,4 @@
-# 🎓 AXAM Voice Q&A System
+# 🎓 AXAM: EdTech AI Voice Tutor
 
 ### Interactive AI Tutor for Science & Algebra Education (Grades 6-12)
 
@@ -7,7 +7,7 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/axam-voice-qa/blob/main/AXAM_Voice_QA.ipynb)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/)
 
-> **An offline-capable AI tutoring system that transforms students' spoken questions into clear, engaging educational explanations using state-of-the-art speech recognition and language models.**
+> **An offline-first AI tutoring system that transforms students' spoken questions into clear, engaging educational explanations using state-of-the-art speech recognition and language models.**
 
 ---
 
